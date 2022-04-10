@@ -18,7 +18,7 @@ References
   * [Blog - A Tutorial on Generating & Plotting 3D Gaussian Distributions with (Python/Numpy/Tensorflow/Pytorch) & (Matplotlib/Plotly)](https://towardsdatascience.com/a-python-tutorial-on-generating-and-plotting-a-3d-guassian-distribution-8c6ec6c41d03)
 
 ### Implement two hidden layers neural network classifier from scratch
-We will create a neural network with one input layer, two hidden layer, and one output layer. We have a neural network with 784 inputs, the first hidden layer has 512 nodes while the second hidden layer consist of 256 nodes. The output layer has 10 node since we are solving a mnist classification problem, where there can be only 10 possible outputs. [Check the implementation here](https://github.com/Khushm/SRIP-IITGN-2022/blob/main/Animate%20Bivariate%20Normal%20Distribution.ipynb)
+We will create a neural network with one input layer, two hidden layer, and one output layer. We have a neural network with 784 inputs, the first hidden layer has 512 nodes while the second hidden layer consist of 256 nodes. The output layer has 10 node since we are solving a mnist classification problem, where there can be only 10 possible outputs. [Check the implementation here](https://github.com/Khushm/SRIP-IITGN-2022/blob/main/Neural%20Network%20Classifier.ipynb)
  * [Blog - Build Neural Network from Scratch](https://towardsdatascience.com/how-to-build-neural-network-from-scratch-d202b13d52c1)
  * [Blog - Creating a Neural Network from Scratch in Python](https://stackabuse.com/creating-a-neural-network-from-scratch-in-python-adding-hidden-layers/)
  * [Article - Neural Networks](https://developer.ibm.com/articles/neural-networks-from-scratch/)
